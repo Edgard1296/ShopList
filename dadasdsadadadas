@@ -1,0 +1,23 @@
+[33mcommit 0e67443f7c387f60903f2072b513812e1b264a14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Edgard Joaquin Valadez Aguilar <23470136@campeche.tecnm.mx>
+Date:   Tue Nov 25 14:50:11 2025 -0600
+
+    Aplicacion totalmente funcional usando NVVM
+
+[33mcommit fe72eee4ff037b9cefd808ef62de1126bef6f425[m
+Author: Edgard Joaquin Valadez Aguilar <23470136@campeche.tecnm.mx>
+Date:   Tue Nov 25 00:18:43 2025 -0600
+
+    Implementa Mvvm usando CommunityToolkit.Mvvm
+
+[33mcommit 4cd5341759c9467a183d6ff28e01a3e3ae412d9e[m
+Author: Edgard Joaquin Valadez Aguilar <23470136@campeche.tecnm.mx>
+Date:   Sun Nov 23 19:24:37 2025 -0600
+
+    Primer commit de como se ve la interfaz
+
+[33mcommit 0454ad56694c5ffdcdc12d6c67ec64f8315aa620[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Edgard Joaquin Valadez Aguilar <23470136@campeche.tecnm.mx>
+Date:   Sun Nov 23 19:10:16 2025 -0600
+
+    Esto solo es la vista del proyecto de Lista de Compras
